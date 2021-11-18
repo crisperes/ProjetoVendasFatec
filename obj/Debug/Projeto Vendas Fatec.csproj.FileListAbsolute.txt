@@ -1,0 +1,44 @@
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\Projeto Vendas Fatec.exe.config
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\Projeto Vendas Fatec.exe
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\Projeto Vendas Fatec.pdb
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\Google.Protobuf.dll
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\MySql.Data.dll
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\System.Buffers.dll
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\System.Memory.dll
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\Zstandard.Net.dll
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\Google.Protobuf.pdb
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\Google.Protobuf.xml
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\MySql.Data.xml
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\System.Buffers.xml
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\System.Memory.xml
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto Vendas Fatec.csproj.AssemblyReference.cache
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto_Vendas_Fatec.br.com.projeto.view.Frmclientes.resources
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto_Vendas_Fatec.Form1.resources
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto_Vendas_Fatec.Properties.Resources.resources
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto Vendas Fatec.csproj.GenerateResource.cache
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto Vendas Fatec.csproj.CoreCompileInputs.cache
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto Vendas Fatec.csproj.CopyComplete
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto Vendas Fatec.exe
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto Vendas Fatec.pdb
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto_Vendas_Fatec.br.com.projeto.view.Frmfornecedores.resources
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto_Vendas_Fatec.br.com.projeto.view.Frmfuncionarios.resources
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto_Vendas_Fatec.br.com.projeto.view.Frmmenu.resources
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto_Vendas_Fatec.br.com.projeto.view.Frmprodutos.resources
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto_Vendas_Fatec.br.com.projeto.view.Frmvendas.resources
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto_Vendas_Fatec.br.com.projeto.view.Frmpagamento.resources
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto_Vendas_Fatec.br.com.projeto.view.Frmlogin.resources
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto_Vendas_Fatec.br.com.projeto.view.Frmhistorico.resources
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto_Vendas_Fatec.br.com.projeto.view.Frmdetalhe.resources
+C:\Users\f40045195862\Desktop\Fatec\4 Semestre\Laboratorio de banco de dados\Projeto Vendas Fatec\obj\Debug\Projeto Vendas Fatec.csproj.ResolveComReference.cache
